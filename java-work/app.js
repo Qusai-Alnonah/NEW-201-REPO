@@ -3,7 +3,7 @@ let userAge = prompt("What is your age ");
 let userWork = prompt("what its your work");
 let userEdu = prompt("what did you stady");
 
-alert('Your Name Is'+userName + 'Your Age Is '+userAge + 'You Work At'+userWork + 'You stady The'+userEdu);
+alert('Your Name Is'+ userName + 'Your Age Is '+ userAge + 'You Work At'+ userWork + 'You stady The'+ userEdu);
 
 
 
