@@ -1,0 +1,47 @@
+.carModel{
+    display:grid;
+    background-color:rgb(51, 177, 51);
+    text-decoration-color:orangered;
+
+
+}
+
+ .superCar{
+   
+    background-color: rgb(0, 0, 0);
+    width:100%;
+    height: 50%;
+    image-resolution: 100px;
+    margin:auto ;
+    padding: 5px;
+    
+
+} 
+.column {
+    float:left;
+    width: 30%;
+    padding: 3px;
+   
+
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+    
+  }
+  
+    heder H1{
+        background-color: rgb(41, 221, 24);
+        text-align: center;
+        color: lightgray;
+    }
+   
+    footer a{
+        margin:10% ;
+        float: Center;
+    }
+
+
